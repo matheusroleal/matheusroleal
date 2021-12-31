@@ -6,15 +6,18 @@
 
 - 📈 Master of Science Candidate in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
 
-- ❤️ I love developing tools for Blockchain, IoT, and creating a more streamlined development process
+- ❤️ I love to develop tools for Blockchain, IoT and create resources to simplify the development process
 
 - 💬 Ask me about anything [here](https://github.com/matheusroleal/matheusroleal/issues)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>    
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
+<br>
 <code><img height="20" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white"></code>
 <br>
 <code><img height="20" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></code>
