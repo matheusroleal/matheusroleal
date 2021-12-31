@@ -22,6 +22,11 @@
 
 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [A Performance Analysis of C and Go](https://blog.devgenius.io/a-performance-analysis-of-c-and-go-82a378be8c87?source=rss-6fafde0f4c15------2)
+- [Combining Infrastructure as Code software tools to manage and provision your application](https://medium.com/nerd-for-tech/combining-infrastructure-as-code-software-tools-to-manage-and-provision-your-application-652e75eba235?source=rss-6fafde0f4c15------2)
+- [Developing a Technique to Identify Valuable Cryptocurrencies](https://medium.com/geekculture/developing-a-technique-to-identify-valuable-cryptocurrencies-d1cf555795bf?source=rss-6fafde0f4c15------2)
+- [Examine system performance based on real-life load conditions](https://medium.com/nerd-for-tech/examine-system-performance-based-on-real-life-load-conditions-8054521fefc7?source=rss-6fafde0f4c15------2)
+- [NFTs and Their use Beyond Crypto Art](https://medium.com/nerd-for-tech/nfts-and-their-use-beyond-crypto-art-ae2a4931e5a3?source=rss-6fafde0f4c15------2)
 <!-- BLOG-POST-LIST:END -->
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusroleal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusroleal&layout=compact&theme=buefy&hide_border=true" /></a> |
