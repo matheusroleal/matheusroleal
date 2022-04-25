@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-- 💼 DevOps Engineer at [Globo](https://www.vempraglobo.com.br/conhecaaglobo/)
+- 💼 Engineer applying DevOps culture at [Globo](https://www.vempraglobo.com.br/conhecaaglobo/)
 
 - 📈 Master of Science Candidate in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
 
