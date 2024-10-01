@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About me
 
-- 💼 Engineer applying DevOps culture at [Globo](https://www.vempraglobo.com.br/conhecaaglobo/)
+- 💼 Site Reliability Engineer at [Eventbrite](https://www.eventbritecareers.com/)
 
-- 📈 Master of Science Candidate in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
+- 📈 Master of Science in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
 
-- ❤️ I love to develop tools for Blockchain, IoT and create resources to simplify development processes
+- ❤️ I love to develop tools for Web3, IoT and create resources to simplify development processes
 
 - 💬 Ask me about anything [here](https://github.com/matheusroleal/matheusroleal/issues)
 
