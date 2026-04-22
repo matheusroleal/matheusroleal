@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-- 💼 Site Reliability Engineer at [Eventbrite](https://www.eventbritecareers.com/)
+- 💼 Senior Site Reliability Engineer at Oracle
 
 - 📈 Master of Science in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
 
