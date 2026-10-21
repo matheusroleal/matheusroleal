@@ -1,12 +1,10 @@
-
-
 ## 👨‍💻 About me
 
 - 💼 Senior Site Reliability Engineer at Oracle
 
 - 📈 Master of Science in Computer Networks and Distributed Systems at [Pontifícia Universidade Católica do Rio de Janeiro](https://www.timeshighereducation.com/world-university-rankings/pontifical-catholic-university-rio-de-janeiro-puc-rio)
 
-- ❤️ I love to develop tools for Web3, IoT and create resources to simplify development processes
+- ❤️ I build and operate reliable, scalable systems, with a focus on infrastructure automation, observability, distributed systems, and production engineering.
 
 - 💬 Ask me about anything [here](https://github.com/matheusroleal/matheusroleal/issues)
 
